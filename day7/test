@@ -1,0 +1,14 @@
+$ cd /
+$ ls
+dir one
+dir two
+293559 file1
+293559 file2
+dir three
+$ cd one
+$ ls
+dir oneOne
+dir oneTwo
+12679 file3
+$ cd oneOne
+12679 file4
